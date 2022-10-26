@@ -5,6 +5,7 @@
 }
 .carousel-inner img{
     width: 20em;
+    margin: 20px;
 }
 #Contact{
     background-color: rgb(26, 98, 103);
